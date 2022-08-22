@@ -12,7 +12,7 @@ public class C01 {
 
         //mehmet emin
         System.out.println("burası çalışma alanım");
-
+        // deneme bir ki
 
         //fatih
 
