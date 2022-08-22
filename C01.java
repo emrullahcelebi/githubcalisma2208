@@ -11,7 +11,7 @@ public class C01 {
 
 
         //mehmet emin
-        System.out.println("burası çalışma alanım");
+        System.out.println("burası çalışma alanımdır");
 
 
         //fatih
