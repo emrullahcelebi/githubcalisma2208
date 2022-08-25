@@ -7,7 +7,7 @@ public class C01 {
         System.out.println("yeni eklenen 00002");
         System.out.println("yeni eklenen 03");
         //sezer
-
+        System.out.println("yenilik");
 
         //muhammet
 
